@@ -1,0 +1,20 @@
+{
+    "projectName": "SOA",
+    "username": "b.l.dangi91+badges@gmail.com",
+    "id": "2fd1e920-8594-11e8-b2c0-3feb81c186af",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://banshi-badges-dev-ed.my.salesforce.com",
+    "workspace": "/Users/banshi/Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AuraDefinitionBundle",
+        "CustomObject",
+        "RemoteSiteSetting",
+        "StaticResource"
+    ]
+}
